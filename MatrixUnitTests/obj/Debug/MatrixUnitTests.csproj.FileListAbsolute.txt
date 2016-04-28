@@ -1,0 +1,7 @@
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\bin\Debug\MatrixUnitTests.dll
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\bin\Debug\MatrixUnitTests.pdb
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\bin\Debug\ZODMokienko.exe
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\bin\Debug\ZODMokienko.pdb
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\obj\Debug\MatrixUnitTests.csprojResolveAssemblyReference.cache
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\obj\Debug\MatrixUnitTests.dll
+D:\userdata\mrugala\My Documents\Visual Studio 2013\Projects\ZODMokienko\MatrixUnitTests\obj\Debug\MatrixUnitTests.pdb
