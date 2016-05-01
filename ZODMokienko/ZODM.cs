@@ -179,8 +179,8 @@ namespace ZODMokienko
                 inD.X *= (decimal)(22.0 / len);
                 inD.Y *= (decimal)(22.0 / len);
                 inD.Z *= (decimal)(22.0 / len);
+                len = Math.Sqrt(Math.Pow((double)inD.X, 2) + Math.Pow((double)inD.Y, 2) + Math.Pow((double)inD.Z, 2));
             }
-            len = Math.Sqrt(Math.Pow((double)inD.X, 2) + Math.Pow((double)inD.Y, 2) + Math.Pow((double)inD.Z, 2));
 
             q[1] = Math.Atan2((double)inD.Y, (double)inD.X);
             double temp = rot[2, 3] * Math.Cos(q[1]) - rot[1, 3] * Math.Sin(q[1]);
